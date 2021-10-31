@@ -1,0 +1,40 @@
+
+.box{
+    margin-left: 13%;
+    margin-right: 8%;
+   
+    padding: 5%;
+    border:2px solid red;
+    border-radius: 5%;
+    background-color: antiquewhite;
+    width: 60%;
+  
+    
+}
+.upper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    
+}
+.para{
+    text-align: center;
+}
+.image{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   text-align: center;
+   align-items: center;
+
+}
+img{
+    border-radius: 100%;
+}
+h1{
+    font-family: 'Zen Old Mincho', serif;
+}
+p{
+    font-family: 'Baloo 2', cursive;
+}
